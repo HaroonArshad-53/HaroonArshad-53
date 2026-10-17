@@ -16,7 +16,12 @@ I'm an active contributor to **[projectdiscovery/nuclei-templates](https://githu
 |----|--------------|--------|
 | [#17396](https://github.com/projectdiscovery/nuclei-templates/pull/17396) | CVE-2026-91136 — Divi Plus unauthenticated file read (CVSS 7.5) | ✅ Merged |
 | [#17410](https://github.com/projectdiscovery/nuclei-templates/pull/17410) | CVE-2026-102782 — OrdaSoft Simple Membership SQL injection (CVSS 9.3) | Open, in review |
-| [#17421](https://github.com/projectdiscovery/nuclei-templates/pull/17421) | CVE-2026-102428 — OrdaSoft OS CCK SQL injection (CVSS 9.3) | Open, in review |
+| [#17421](https://github.com/projectdiscovery/nuclei-templates/pull/17421) | CVE-2026-102428 — OrdaSoft OS CCK SQL injection (CVSS 9.3) | Closed — couldn't validate against a real setup |
+| [#17422](https://github.com/projectdiscovery/nuclei-templates/pull/17422) | CVE-2026-88854 — OrdaSoft Image Gallery unauthenticated SQL injection | Closed — couldn't validate against a real setup |
+| [#17428](https://github.com/projectdiscovery/nuclei-templates/pull/17428) | CVE-2026-49772 — The Events Calendar blind SQL injection (lab-validated) | Open, in review |
+| [#17441](https://github.com/projectdiscovery/nuclei-templates/pull/17441) | CVE-2026-52715 — GEO my WP SQL injection (lab-validated) | Open, in review |
+| [#17442](https://github.com/projectdiscovery/nuclei-templates/pull/17442) | CVE-2024-5333 template false-positive fix | Open, in review |
+| [misp-objects#548](https://github.com/MISP/misp-objects/pull/548) | prompt-injection-observation object template | ✅ Merged |
 
 Target: 100 merged upstream PRs in 12 months (~2/week). Working on it.
 
