@@ -27,10 +27,10 @@ I contribute where my day job skills transfer directly: detection engineering. E
 
 ```
 Road to 100 merged upstream PRs
-[█░░░░░░░░░░░░░░░░░░░] 5% — 5 merged · 12 in review · 95 to go
+[██░░░░░░░░░░░░░░░░░░] 6% — 6 merged · 11 in review · 94 to go
 ```
 
-#### ✅ Merged (5)
+#### ✅ Merged (6)
 
 | PR | What it is |
 |----|------------|
@@ -39,14 +39,15 @@ Road to 100 merged upstream PRs
 | [nuclei-templates #17428](https://github.com/projectdiscovery/nuclei-templates/pull/17428) | CVE-2026-49772 — The Events Calendar blind SQL injection (lab-validated) |
 | [nuclei-templates #17441](https://github.com/projectdiscovery/nuclei-templates/pull/17441) | CVE-2026-52715 — GEO my WP SQL injection (lab-validated) |
 | [nuclei-templates #17470](https://github.com/projectdiscovery/nuclei-templates/pull/17470) | CVE-2026-12800 — Premium Packages unauthenticated SQL injection (lab-validated) |
-#### 🔎 In review (12)
+| [nuclei-templates #17442](https://github.com/projectdiscovery/nuclei-templates/pull/17442) | CVE-2024-5333 — Events Calendar template false-positive fix (lab-proven, co-authored by a maintainer) |
+#### 🔎 In review (11)
 
 | PR | What it is |
 |----|------------|
 | [nuclei-templates #17471](https://github.com/projectdiscovery/nuclei-templates/pull/17471) | CVE-2026-9848 — WP Ticket unauthenticated SQL injection (lab-validated) |
 | [SigmaHQ/sigma #6510](https://github.com/SigmaHQ/sigma/pull/6510) | Auditd Sigma rule — systemd timer persistence detection (T1053.006) |
 | [SigmaHQ/sigma #6511](https://github.com/SigmaHQ/sigma/pull/6511) | Sigma rule — Entra ID user creation detection (T1136.003, cloud account creation) |
-| [nuclei-templates #17442](https://github.com/projectdiscovery/nuclei-templates/pull/17442) | CVE-2024-5333 template false-positive fix — marked ready to merge by a maintainer |
+
 | [prowler #13069](https://github.com/prowler-cloud/prowler/pull/13069) | New Bedrock Knowledge Base least-privilege check (IAM / cloud security) |
 | [checkov #7747](https://github.com/bridgecrewio/checkov/pull/7747) | New IAM check CKV_AWS_395 |
 | [signature-base #423](https://github.com/Neo23x0/signature-base/pull/423) | YARA rule for PamStealer |
@@ -122,3 +123,4 @@ Road to 100 merged upstream PRs
 *BS Cyber Security & Digital Forensics, The Islamia University of Bahawalpur (2021–2025). Everything here is work I did myself — rules I wrote, templates I validated, a lab I'm building.*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer"/>
+---
