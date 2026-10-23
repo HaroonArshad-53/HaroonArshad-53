@@ -39,7 +39,6 @@ Road to 100 merged upstream PRs
 | [nuclei-templates #17428](https://github.com/projectdiscovery/nuclei-templates/pull/17428) | CVE-2026-49772 — The Events Calendar blind SQL injection (lab-validated) |
 | [nuclei-templates #17441](https://github.com/projectdiscovery/nuclei-templates/pull/17441) | CVE-2026-52715 — GEO my WP SQL injection (lab-validated) |
 | [nuclei-templates #17470](https://github.com/projectdiscovery/nuclei-templates/pull/17470) | CVE-2026-12800 — Premium Packages unauthenticated SQL injection (lab-validated) |
-
 #### 🔎 In review (10)
 
 | PR | What it is |
