@@ -27,7 +27,7 @@ I contribute where my day job skills transfer directly: detection engineering. E
 
 ```
 Road to 100 merged upstream PRs
-[██░░░░░░░░░░░░░░░░░░] 10% — 10 merged · 9 in review · 90 to go
+[██░░░░░░░░░░░░░░░░░░] 10% — 10 merged · 10 in review · 90 to go
 ```
 
 #### ✅ Merged (10)
@@ -44,7 +44,11 @@ Road to 100 merged upstream PRs
 | [nuclei-templates #17471](https://github.com/projectdiscovery/nuclei-templates/pull/17471) | CVE-2026-9848 — WP Ticket unauthenticated SQL injection (lab-validated) |
 | [velociraptor-docs #1328](https://github.com/Velocidex/velociraptor-docs/pull/1328) | Windows LOLBins detection artifact (Artifact Exchange) |
 | [nuclei-templates #17571](https://github.com/projectdiscovery/nuclei-templates/pull/17571) | CVE-2026-18051 — W3 Total Cache unauthenticated arbitrary file write (lab-validated) |
-#### 🔎 In review (9)
+#### 🔎 In review (10)
+
+| PR | What it is |
+|----|------------|
+| [nuclei-templates #17586](https://github.com/projectdiscovery/nuclei-templates/pull/17586) | CVE-2020-2096 — Jenkins GitLab Hook XSS template false-positive fix (#5405) |
 
 | PR | What it is |
 |----|------------|
