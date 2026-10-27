@@ -27,10 +27,10 @@ I contribute where my day job skills transfer directly: detection engineering. E
 
 ```
 Road to 100 merged upstream PRs
-[██░░░░░░░░░░░░░░░░░░] 6% — 6 merged · 12 in review · 94 to go
+[██░░░░░░░░░░░░░░░░░░] 9% — 9 merged · 10 in review · 91 to go
 ```
 
-#### ✅ Merged (6)
+#### ✅ Merged (9)
 
 | PR | What it is |
 |----|------------|
@@ -40,11 +40,14 @@ Road to 100 merged upstream PRs
 | [nuclei-templates #17441](https://github.com/projectdiscovery/nuclei-templates/pull/17441) | CVE-2026-52715 — GEO my WP SQL injection (lab-validated) |
 | [nuclei-templates #17470](https://github.com/projectdiscovery/nuclei-templates/pull/17470) | CVE-2026-12800 — Premium Packages unauthenticated SQL injection (lab-validated) |
 | [nuclei-templates #17442](https://github.com/projectdiscovery/nuclei-templates/pull/17442) | CVE-2024-5333 — Events Calendar template false-positive fix (lab-proven, co-authored by a maintainer) |
-#### 🔎 In review (12)
+| [nuclei-templates #17410](https://github.com/projectdiscovery/nuclei-templates/pull/17410) | CVE-2026-102782 — OrdaSoft Simple Membership SQL injection (CVSS 9.3) |
+| [nuclei-templates #17471](https://github.com/projectdiscovery/nuclei-templates/pull/17471) | CVE-2026-9848 — WP Ticket unauthenticated SQL injection (lab-validated) |
+| [velociraptor-docs #1328](https://github.com/Velocidex/velociraptor-docs/pull/1328) | Windows LOLBins detection artifact (Artifact Exchange) |
+#### 🔎 In review (10)
 
 | PR | What it is |
 |----|------------|
-| [nuclei-templates #17471](https://github.com/projectdiscovery/nuclei-templates/pull/17471) | CVE-2026-9848 — WP Ticket unauthenticated SQL injection (lab-validated) |
+| [nuclei-templates #17571](https://github.com/projectdiscovery/nuclei-templates/pull/17571) | CVE-2026-18051 — W3 Total Cache unauthenticated arbitrary file write (lab-validated) |
 | [SigmaHQ/sigma #6510](https://github.com/SigmaHQ/sigma/pull/6510) | Auditd Sigma rule — systemd timer persistence detection (T1053.006) |
 | [SigmaHQ/sigma #6511](https://github.com/SigmaHQ/sigma/pull/6511) | Sigma rule — Entra ID user creation detection (T1136.003, cloud account creation) |
 | [SigmaHQ/sigma #6513](https://github.com/SigmaHQ/sigma/pull/6513) | Sigma rule — Entra break-glass account sign-in detection (T1078) |
@@ -54,9 +57,7 @@ Road to 100 merged upstream PRs
 | [signature-base #423](https://github.com/Neo23x0/signature-base/pull/423) | YARA rule for PamStealer |
 | [modelscan #391](https://github.com/protectai/modelscan/pull/391) | SARIF output support for model scanning results |
 | [modelscan #390](https://github.com/protectai/modelscan/pull/390) | Settings version warning |
-| [velociraptor-docs #1328](https://github.com/Velocidex/velociraptor-docs/pull/1328) | Windows LOLBins detection artifact (Artifact Exchange) |
 | [velociraptor-sigma-rules #70](https://github.com/Velocidex/velociraptor-sigma-rules/pull/70) | 14 Sigma rules for Windows LOLBins execution |
-| [nuclei-templates #17410](https://github.com/projectdiscovery/nuclei-templates/pull/17410) | CVE-2026-102782 — OrdaSoft Simple Membership SQL injection (CVSS 9.3) |
 
 <details>
 <summary><b>Closed — and what I learned from them (3)</b></summary>
