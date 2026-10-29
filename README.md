@@ -27,7 +27,7 @@ I contribute where my day job skills transfer directly: detection engineering. E
 
 ```
 Road to 100 merged upstream PRs
-[██░░░░░░░░░░░░░░░░░░] 10% — 10 merged · 10 in review · 90 to go
+[██░░░░░░░░░░░░░░░░░░] 10% — 10 merged · 9 in review · 90 to go
 ```
 
 #### ✅ Merged (10)
@@ -44,11 +44,10 @@ Road to 100 merged upstream PRs
 | [nuclei-templates #17471](https://github.com/projectdiscovery/nuclei-templates/pull/17471) | CVE-2026-9848 — WP Ticket unauthenticated SQL injection (lab-validated) |
 | [velociraptor-docs #1328](https://github.com/Velocidex/velociraptor-docs/pull/1328) | Windows LOLBins detection artifact (Artifact Exchange) |
 | [nuclei-templates #17571](https://github.com/projectdiscovery/nuclei-templates/pull/17571) | CVE-2026-18051 — W3 Total Cache unauthenticated arbitrary file write (lab-validated) |
-#### 🔎 In review (10)
+#### 🔎 In review (9)
 
 | PR | What it is |
 |----|------------|
-| [nuclei-templates #17586](https://github.com/projectdiscovery/nuclei-templates/pull/17586) | CVE-2020-2096 — Jenkins GitLab Hook XSS template false-positive fix (#5405) |
 
 | PR | What it is |
 |----|------------|
@@ -64,7 +63,7 @@ Road to 100 merged upstream PRs
 | [velociraptor-sigma-rules #70](https://github.com/Velocidex/velociraptor-sigma-rules/pull/70) | 14 Sigma rules for Windows LOLBins execution |
 
 <details>
-<summary><b>Closed — and what I learned from them (3)</b></summary>
+<summary><b>Closed — and what I learned from them (4)</b></summary>
 
 <br/>
 
@@ -73,6 +72,7 @@ Road to 100 merged upstream PRs
 | [nuclei-templates #17421](https://github.com/projectdiscovery/nuclei-templates/pull/17421) | CVE-2026-102428 — closed: couldn't validate against a real setup, and I don't ship what I can't validate |
 | [nuclei-templates #17422](https://github.com/projectdiscovery/nuclei-templates/pull/17422) | CVE-2026-88854 — closed for the same reason; that lesson is now my standing rule |
 | [velociraptor #5083](https://github.com/Velocidex/velociraptor/pull/5083) | Not a rejection — the maintainer redirected the work to the Artifact Exchange and Sigma-rules repos, where it became #1328 and #70 above |
+| [nuclei-templates #17586](https://github.com/projectdiscovery/nuclei-templates/pull/17586) | CVE-2020-2096 — closed: maintainer tested the template on live Jenkins hosts and found zero false positives, so the mock-based gate wasn't justified; live-host evidence is now my bar for FP fixes |
 
 </details>
 
