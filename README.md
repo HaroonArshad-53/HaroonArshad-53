@@ -27,7 +27,7 @@ I contribute where my day job skills transfer directly: detection engineering. E
 
 ```
 Road to 100 merged upstream PRs
-[██░░░░░░░░░░░░░░░░░░] 10% — 10 merged · 9 in review · 90 to go
+[██░░░░░░░░░░░░░░░░░░] 10% — 10 merged · 10 in review · 89 to go
 ```
 
 #### ✅ Merged (10)
@@ -44,17 +44,14 @@ Road to 100 merged upstream PRs
 | [nuclei-templates #17471](https://github.com/projectdiscovery/nuclei-templates/pull/17471) | CVE-2026-9848 — WP Ticket unauthenticated SQL injection (lab-validated) |
 | [velociraptor-docs #1328](https://github.com/Velocidex/velociraptor-docs/pull/1328) | Windows LOLBins detection artifact (Artifact Exchange) |
 | [nuclei-templates #17571](https://github.com/projectdiscovery/nuclei-templates/pull/17571) | CVE-2026-18051 — W3 Total Cache unauthenticated arbitrary file write (lab-validated) |
-#### 🔎 In review (9)
-
-| PR | What it is |
-|----|------------|
+#### 🔎 In review (10)
 
 | PR | What it is |
 |----|------------|
 | [SigmaHQ/sigma #6510](https://github.com/SigmaHQ/sigma/pull/6510) | Auditd Sigma rule — systemd timer persistence detection (T1053.006) |
 | [SigmaHQ/sigma #6511](https://github.com/SigmaHQ/sigma/pull/6511) | Sigma rule — Entra ID user creation detection (T1136.003, cloud account creation) |
 | [SigmaHQ/sigma #6513](https://github.com/SigmaHQ/sigma/pull/6513) | Sigma rule — Entra break-glass account sign-in detection (T1078) |
-
+| [SigmaHQ/sigma #6547](https://github.com/SigmaHQ/sigma/pull/6547) | Sigma rule — Entra ID application creation detection (T1136.003, cloud account creation) |
 | [prowler #13069](https://github.com/prowler-cloud/prowler/pull/13069) | New Bedrock Knowledge Base least-privilege check (IAM / cloud security) |
 | [checkov #7747](https://github.com/bridgecrewio/checkov/pull/7747) | New IAM check CKV_AWS_395 |
 | [signature-base #423](https://github.com/Neo23x0/signature-base/pull/423) | YARA rule for PamStealer |
