@@ -59,8 +59,7 @@ Road to 100 merged upstream PRs
 | [modelscan #391](https://github.com/protectai/modelscan/pull/391) | SARIF output support for model scanning results |
 | [modelscan #390](https://github.com/protectai/modelscan/pull/390) | Settings version warning |
 | [velociraptor-sigma-rules #70](https://github.com/Velocidex/velociraptor-sigma-rules/pull/70) | 14 Sigma rules for Windows LOLBins execution |
-
- | [nuclei-templates #17621](https://github.com/projectdiscovery/nuclei-templates/pull/17621) | Dashdot unauthenticated server info exposure template  (/info host inventory) |
+| [nuclei-templates #17621](https://github.com/projectdiscovery/nuclei-templates/pull/17621) | Dashdot unauthenticated server info exposure template  (/info host inventory) |
 <details>
 <summary><b>Closed — and what I learned from them (4)</b></summary>
 
