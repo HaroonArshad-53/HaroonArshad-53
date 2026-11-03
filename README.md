@@ -27,10 +27,10 @@ I contribute where my day job skills transfer directly: detection engineering. E
 
 ```
 Road to 100 merged upstream PRs
-[██░░░░░░░░░░░░░░░░░░] 10% — 10 merged · 12 in review · 87 to go
+[██░░░░░░░░░░░░░░░░░░] 11% — 11 merged · 11 in review · 89 to go
 ```
 
-#### ✅ Merged (10)
+#### ✅ Merged (11)
 
 | PR | What it is |
 |----|------------|
@@ -44,7 +44,8 @@ Road to 100 merged upstream PRs
 | [nuclei-templates #17471](https://github.com/projectdiscovery/nuclei-templates/pull/17471) | CVE-2026-9848 — WP Ticket unauthenticated SQL injection (lab-validated) |
 | [velociraptor-docs #1328](https://github.com/Velocidex/velociraptor-docs/pull/1328) | Windows LOLBins detection artifact (Artifact Exchange) |
 | [nuclei-templates #17571](https://github.com/projectdiscovery/nuclei-templates/pull/17571) | CVE-2026-18051 — W3 Total Cache unauthenticated arbitrary file write (lab-validated) |
-#### 🔎 In review (12)
+| [nuclei-templates #17637](https://github.com/projectdiscovery/nuclei-templates/pull/17637) | CVE-2026-112866 — Product Filter by WBW unauthenticated SQL injection (lab-validated) |
+#### 🔎 In review (11)
 
 | PR | What it is |
 |----|------------|
@@ -60,7 +61,6 @@ Road to 100 merged upstream PRs
 | [velociraptor-sigma-rules #70](https://github.com/Velocidex/velociraptor-sigma-rules/pull/70) | 14 Sigma rules for Windows LOLBins execution |
 
  | [nuclei-templates #17621](https://github.com/projectdiscovery/nuclei-templates/pull/17621) | Dashdot unauthenticated server info exposure template  (/info host inventory) |
- | [nuclei-templates #17637](https://github.com/projectdiscovery/nuclei-templates/pull/17637) | CVE-2026-112866 — Product Filter by WBW unauthenticated SQL injection (lab-validated) |
 <details>
 <summary><b>Closed — and what I learned from them (4)</b></summary>
 
