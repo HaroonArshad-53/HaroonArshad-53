@@ -27,10 +27,10 @@ I contribute where my day job skills transfer directly: detection engineering. E
 
 ```
 Road to 100 merged upstream PRs
-[███░░░░░░░░░░░░░░░░░] 16% — 16 merged · 10 in review · 84 to go
+[███░░░░░░░░░░░░░░░░░] 15% — 15 merged · 12 in review · 85 to go
 ```
 
-#### ✅ Merged (16)
+#### ✅ Merged (15)
 
 | PR | What it is |
 |----|------------|
@@ -49,11 +49,12 @@ Road to 100 merged upstream PRs
 | [nuclei-templates #17621](https://github.com/projectdiscovery/nuclei-templates/pull/17621) | Dashdot unauthenticated server info exposure template (/info host inventory) |
 | [nuclei-templates #17728](https://github.com/projectdiscovery/nuclei-templates/pull/17728) | Meilisearch unauthenticated index exposure template (no master key, /indexes listing + document search) |
 | [nuclei-templates #17739](https://github.com/projectdiscovery/nuclei-templates/pull/17739) | Actual Budget exposed login panel template (lab-validated against the real app from source) |
-| [nuclei-templates #17729](https://github.com/projectdiscovery/nuclei-templates/pull/17729) | CVE-2026-92998 — Click n Chat unauthenticated SQL injection (lab-validated, time-based ORDER BY) |
-#### 🔎 In review (10)
+#### 🔎 In review (12)
 
 | PR | What it is |
 |----|------------|
+| [nuclei-templates #17770](https://github.com/projectdiscovery/nuclei-templates/pull/17770) | Crafty Controller exposed login panel template (lab-validated against the real app from source) |
+| [nuclei-templates #17729](https://github.com/projectdiscovery/nuclei-templates/pull/17729) | CVE-2026-92998 — Click n Chat unauthenticated SQL injection (lab-validated, time-based ORDER BY) |
 | [SigmaHQ/sigma #6510](https://github.com/SigmaHQ/sigma/pull/6510) | Auditd Sigma rule — systemd timer persistence detection (T1053.006) |
 | [SigmaHQ/sigma #6511](https://github.com/SigmaHQ/sigma/pull/6511) | Sigma rule — Entra ID user creation detection (T1136.003, cloud account creation) |
 | [SigmaHQ/sigma #6513](https://github.com/SigmaHQ/sigma/pull/6513) | Sigma rule — Entra break-glass account sign-in detection (T1078) |
