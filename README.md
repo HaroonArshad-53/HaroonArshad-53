@@ -27,10 +27,10 @@ I contribute where my day job skills transfer directly: detection engineering. E
 
 ```
 Road to 100 merged upstream PRs
-[███░░░░░░░░░░░░░░░░░] 15% — 15 merged · 11 in review · 85 to go
+[███░░░░░░░░░░░░░░░░░] 16% — 16 merged · 10 in review · 84 to go
 ```
 
-#### ✅ Merged (15)
+#### ✅ Merged (16)
 
 | PR | What it is |
 |----|------------|
@@ -49,7 +49,8 @@ Road to 100 merged upstream PRs
 | [nuclei-templates #17621](https://github.com/projectdiscovery/nuclei-templates/pull/17621) | Dashdot unauthenticated server info exposure template (/info host inventory) |
 | [nuclei-templates #17728](https://github.com/projectdiscovery/nuclei-templates/pull/17728) | Meilisearch unauthenticated index exposure template (no master key, /indexes listing + document search) |
 | [nuclei-templates #17739](https://github.com/projectdiscovery/nuclei-templates/pull/17739) | Actual Budget exposed login panel template (lab-validated against the real app from source) |
-#### 🔎 In review (11)
+| [nuclei-templates #17729](https://github.com/projectdiscovery/nuclei-templates/pull/17729) | CVE-2026-92998 — Click n Chat unauthenticated SQL injection (lab-validated, time-based ORDER BY) |
+#### 🔎 In review (10)
 
 | PR | What it is |
 |----|------------|
@@ -63,7 +64,6 @@ Road to 100 merged upstream PRs
 | [modelscan #391](https://github.com/protectai/modelscan/pull/391) | SARIF output support for model scanning results |
 | [modelscan #390](https://github.com/protectai/modelscan/pull/390) | Settings version warning |
 | [velociraptor-sigma-rules #70](https://github.com/Velocidex/velociraptor-sigma-rules/pull/70) | 14 Sigma rules for Windows LOLBins execution |
-| [nuclei-templates #17729](https://github.com/projectdiscovery/nuclei-templates/pull/17729) | CVE-2026-92998 — Click n Chat unauthenticated SQL injection (lab-validated, time-based ORDER BY) |
 <details>
 <summary><b>Closed — and what I learned from them (4)</b></summary>
 
