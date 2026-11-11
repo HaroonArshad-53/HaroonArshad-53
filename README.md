@@ -53,7 +53,6 @@ Road to 100 merged upstream PRs
 #### 🔎 In review (12)
 
 | PR | What it is |
-
 |----|------------|
 | [nuclei-templates #17774](https://github.com/projectdiscovery/nuclei-templates/pull/17774) | CVE-2026-104798 — My Calendar unauthenticated privilege escalation via shortcode function dispatch (lab-validated, print_r proof) |
 | [nuclei-templates #17770](https://github.com/projectdiscovery/nuclei-templates/pull/17770) | Crafty Controller exposed login panel template (lab-validated against the real app from source) |
