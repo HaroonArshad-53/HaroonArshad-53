@@ -27,7 +27,7 @@ I contribute where my day job skills transfer directly: detection engineering. E
 
 ```
 Road to 100 merged upstream PRs
-[███░░░░░░░░░░░░░░░░░] 16% — 16 merged · 16 in review · 84 to go
+[███░░░░░░░░░░░░░░░░░] 16% — 16 merged · 15 in review · 84 to go
 ```
 
 #### ✅ Merged (16)
@@ -49,12 +49,11 @@ Road to 100 merged upstream PRs
 | [nuclei-templates #17621](https://github.com/projectdiscovery/nuclei-templates/pull/17621) | Dashdot unauthenticated server info exposure template (/info host inventory) |
 | [nuclei-templates #17728](https://github.com/projectdiscovery/nuclei-templates/pull/17728) | Meilisearch unauthenticated index exposure template (no master key, /indexes listing + document search) |
 | [nuclei-templates #17739](https://github.com/projectdiscovery/nuclei-templates/pull/17739) | Actual Budget exposed login panel template (lab-validated against the real app from source) |
- | [nuclei-templates #17729](https://github.com/projectdiscovery/nuclei-templates/pull/17729) | CVE-2026-92998 — Click n Chat unauthenticated SQL injection (lab-validated, time-based ORDER BY) |
-#### 🔎 In review (16)
+| [nuclei-templates #17729](https://github.com/projectdiscovery/nuclei-templates/pull/17729) | CVE-2026-92998 — Click n Chat unauthenticated SQL injection (lab-validated, time-based ORDER BY) |
+#### 🔎 In review (15)
 
 | PR | What it is |
 |----|------------|
-| [nuclei-templates #17899](https://github.com/projectdiscovery/nuclei-templates/pull/17899) | CVE-2026-109219 — Mang Board unauthenticated arbitrary file upload (CVSS 9.8, version-based detection, sink proven from source + patch diff) |
 | [nuclei-templates #17898](https://github.com/projectdiscovery/nuclei-templates/pull/17898) | Firefly III exposed login panel template (structural markers, validated against the live demo) |
 | [SigmaHQ/sigma #6623](https://github.com/SigmaHQ/sigma/pull/6623) | Sigma rule — Entra ID device creation detection (T1078.004, 'Add device' audit operation) |
 | [SigmaHQ/sigma #6618](https://github.com/SigmaHQ/sigma/pull/6618) | Sigma rule — M365 mailbox items accessed via legacy email protocol (T1114.002, remote email collection) |
@@ -71,12 +70,13 @@ Road to 100 merged upstream PRs
 | [modelscan #390](https://github.com/protectai/modelscan/pull/390) | Settings version warning |
 | [velociraptor-sigma-rules #70](https://github.com/Velocidex/velociraptor-sigma-rules/pull/70) | 14 Sigma rules for Windows LOLBins execution |
 <details>
-<summary><b>Closed — and what I learned from them (4)</b></summary>
+<summary><b>Closed — and what I learned from them (5)</b></summary>
 
 <br/>
 
 | PR | What happened |
 |----|---------------|
+| [nuclei-templates #17899](https://github.com/projectdiscovery/nuclei-templates/pull/17899) | CVE-2026-109219 — closed: maintainer policy, no version-detection templates for non-KEV CVEs; future candidates need KEV status or a detection that proves the flaw, not the version |
 | [nuclei-templates #17421](https://github.com/projectdiscovery/nuclei-templates/pull/17421) | CVE-2026-102428 — closed: couldn't validate against a real setup, and I don't ship what I can't validate |
 | [nuclei-templates #17422](https://github.com/projectdiscovery/nuclei-templates/pull/17422) | CVE-2026-88854 — closed for the same reason; that lesson is now my standing rule |
 | [velociraptor #5083](https://github.com/Velocidex/velociraptor/pull/5083) | Not a rejection — the maintainer redirected the work to the Artifact Exchange and Sigma-rules repos, where it became #1328 and #70 above |
