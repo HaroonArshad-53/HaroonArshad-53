@@ -27,10 +27,10 @@ I contribute where my day job skills transfer directly: detection engineering. E
 
 ```
 Road to 100 merged upstream PRs
-[███░░░░░░░░░░░░░░░░░] 17% — 17 merged · 16 in review · 83 to go
+[████░░░░░░░░░░░░░░░░] 18% — 18 merged · 16 in review · 82 to go
 ```
 
-#### ✅ Merged (17)
+#### ✅ Merged (18)
 
 | PR | What it is |
 |----|------------|
@@ -51,6 +51,7 @@ Road to 100 merged upstream PRs
 | [nuclei-templates #17739](https://github.com/projectdiscovery/nuclei-templates/pull/17739) | Actual Budget exposed login panel template (lab-validated against the real app from source) |
 | [nuclei-templates #17729](https://github.com/projectdiscovery/nuclei-templates/pull/17729) | CVE-2026-92998 — Click n Chat unauthenticated SQL injection (lab-validated, time-based ORDER BY) |
 | [nuclei-templates #18075](https://github.com/projectdiscovery/nuclei-templates/pull/18075) | CapRover exposed login panel template (lab-validated against the real app from source) |
+| [nuclei-templates #18092](https://github.com/projectdiscovery/nuclei-templates/pull/18092) | Hasura GraphQL Console exposed panel template (lab-validated against the real app) |
 #### 🔎 In review (16)
 
 | PR | What it is |
