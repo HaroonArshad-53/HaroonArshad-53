@@ -27,7 +27,7 @@ I contribute where my day job skills transfer directly: detection engineering. E
 
 ```
 Road to 100 merged upstream PRs
-[████░░░░░░░░░░░░░░░░] 18% — 18 merged · 16 in review · 82 to go
+[████░░░░░░░░░░░░░░░░] 18% — 18 merged · 18 in review · 82 to go
 ```
 
 #### ✅ Merged (18)
@@ -52,10 +52,12 @@ Road to 100 merged upstream PRs
 | [nuclei-templates #17729](https://github.com/projectdiscovery/nuclei-templates/pull/17729) | CVE-2026-92998 — Click n Chat unauthenticated SQL injection (lab-validated, time-based ORDER BY) |
 | [nuclei-templates #18075](https://github.com/projectdiscovery/nuclei-templates/pull/18075) | CapRover exposed login panel template (lab-validated against the real app from source) |
 | [nuclei-templates #18092](https://github.com/projectdiscovery/nuclei-templates/pull/18092) | Hasura GraphQL Console exposed panel template (lab-validated against the real app) |
-#### 🔎 In review (16)
+#### 🔎 In review (18)
 
 | PR | What it is |
 |----|------------|
+| [nuclei-templates #18107](https://github.com/projectdiscovery/nuclei-templates/pull/18107) | Duplicati exposed panel template (lab-validated against the real app from source) |
+| [SigmaHQ/sigma #6670](https://github.com/SigmaHQ/sigma/pull/6670) | Sigma rule — M365 Exchange mailbox permission grants detection (T1098.002, Add-MailboxPermission) |
 | [nuclei-templates #18076](https://github.com/projectdiscovery/nuclei-templates/pull/18076) | LLDAP exposed admin panel template (lab-validated against the real app from source) |
 | [nuclei-templates #17898](https://github.com/projectdiscovery/nuclei-templates/pull/17898) | Firefly III exposed login panel template (structural markers, validated against the live demo) |
 | [SigmaHQ/sigma #6623](https://github.com/SigmaHQ/sigma/pull/6623) | Sigma rule — Entra ID device creation detection (T1078.004, 'Add device' audit operation) |
